@@ -14,7 +14,10 @@ public class TareaPoo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Tareapo tarea = new Tareapo();
+        tarea.setVisible(true);
+        
+        System.out.println("hmm");
     }
     
 }
